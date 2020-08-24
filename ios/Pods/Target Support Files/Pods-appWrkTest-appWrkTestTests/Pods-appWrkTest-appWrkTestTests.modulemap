@@ -1,0 +1,6 @@
+module Pods_appWrkTest_appWrkTestTests {
+  umbrella header "Pods-appWrkTest-appWrkTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
